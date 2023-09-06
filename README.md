@@ -17,7 +17,7 @@ I am a Full Stack Developer from Nairobi, Kenya.
 - 😄 I enjoy solving problems with code.
 - 🔭 I’m currently working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 I’m exploring Technical Content Writing.
-- ⚡ In my free time, I solve problems on Codewars and read tech articles.
+- ⚡ In my free time, I enjoy reading tech articles.
 - 📫 How to reach me: Email me: peggykimotho@gmail.com
 
 ---
